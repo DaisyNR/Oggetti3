@@ -2,7 +2,7 @@ let bowling = {
     'players': [
         {'name': 'Livio', 'scores': []},
         {'name': 'Paola', 'scores': []},
-        {'name': 'Michele', 'scores': []},
+        {'name': 'Filippo', 'scores': []},
         {'name': 'Giuseppe', 'scores': []}
     ],
 
